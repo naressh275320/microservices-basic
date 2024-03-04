@@ -3,7 +3,7 @@ package com.example.ebtest;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-//Check commit
+//Check commit and the message
 @SpringBootApplication
 public class JpaApplication {
 
