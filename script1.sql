@@ -1,0 +1,1 @@
+INSERT INTO employee VALUES (1, "Suresh", "suresh3@gmail.com", 40);
